@@ -45,7 +45,7 @@ You are expected to be able to answer questions in these areas. Your responses c
 
 Follow these steps to set up your project:
 
-1. Fork the repo
+1. Fork the repo...
 2. Clone your forked version of the repo
 3. cd into your repo and create a branch with your first and last name
 NOTE: Tests will run for the JavaScript portion of this challenge only
