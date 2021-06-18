@@ -28,15 +28,18 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read.
 
 1. Briefly compare and contrast `.forEach` & `.map` (2-3 sentences max)
-
+- forEach iterates through every single item in that array, map iterates through the array but also creates a new array for selected information.
 2. Explain the difference between a callback and a higher order function.
-
+- a callback function is a function that is passed into another function as an argument, high order function is a function that recieves other functions. 
 3. Can you explain what a closure is and how you used it in the counter function? 
-
+- a closure is when an inner function grabs a variable that is in the outer function. 
 4. Describe the four principles of the 'this' keyword.
-
+-window binding - is the global scope/window, what we see
+-implicit binding - applies to function that belongs to an object. it is implicitely there on the left of the dot. its commonly used.
+- explicit bing -uses, call, apply and bind, to invoke functions as 1 to 1 arguments, return arrays or not to invoke but create new functions. 
+- New Binding - uses the new keyword to construct new object and create new object using the 'This" keyword.
 5. Why do we need super() in an extended class?
-
+- to succesfuly bind to the parent element and take in specific arguments included with 'extend'
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
 ## Instructions
